@@ -1,11 +1,11 @@
-name: Your Blog
+name: Matheus da Cunha
 tagline: Things you talk about
 url: https://matheusdcunha.github.io/blog
 menu:
-  - ["About", "about.html"]
-  - ["Pages", "pages.html"]
+  - ["Sobre", "about.html"]
+  - ["Páginas", "pages.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://mastodon.social/@matheusdcunha"]
+  - ["Me siga", "https://www.linkedin.com/in/matheusdcunha/"]
   - ["Github", "https://github.com/rochacbruno/marmite"]
 
 
